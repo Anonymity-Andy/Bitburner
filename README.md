@@ -1,2 +1,2 @@
 # Bitburner
-Scripts in Javascripts for Bitburner
+Scripts in Javascript for Bitburner
